@@ -1,5 +1,7 @@
 # ZhuaTech VideoGen｜知华科技企业文生视频工作台
 
+[简体中文](README.md) | [English](README.en.md)
+
 ZhuaTech VideoGen 是上海如静知华信息科技有限公司推出的独立文生视频案例项目。系统将企业创意简报转换为镜头数量、分镜脚本、画面景别、运动建议和标准 Provider 任务参数。
 
 [知华科技官网](https://www.zhuatech.cn/) · Java 包名 `cn.zhuatech.videogen` · API `POST /api/videogen/plan`
